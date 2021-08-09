@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This App help you add your transactions with date. Also, it has an ChatBar at the top to show the recent transaction done in previous seven days.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
